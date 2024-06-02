@@ -25,7 +25,7 @@ function Navbar() {
         <a href="#">
           <img
             className="min-w-[70px] w-[8vw]"
-            src="public\klipartbhsidvz.com.png"
+            src="https://github.com/ncjpr04/Code-Shek/blob/main/public/klipartbhsidvz.com.png?raw=true"
             alt=""
           />
         </a>

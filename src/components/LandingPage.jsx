@@ -37,7 +37,7 @@ function LandingPage() {
           })}
         </div>
         <div className="blob overflow-hidden ">
-          <img src="public\11524469_4760048.jpg" alt="" />
+          <img src="https://github.com/ncjpr04/Code-Shek/blob/main/public/11524469_4760048.jpg?raw=true" alt="" />
         </div>
       </div>
       {/* <div className="border-t-[1px] border-zinc-700 mt-20 flex justify-between items-center py-5 px-20">

@@ -9,7 +9,7 @@ function Socials() {
         <button class="Btn">
           <a href="#" target="blank" className="Btn">
             <span class="svgContainer p-2">
-              <img src="public\klipartz.com.png" alt="" />
+              <img src="https://github.com/ncjpr04/Code-Shek/blob/main/public/klipartz.com.png?raw=true" alt="" />
             </span>
           </a>
           <span class="BG1 BG"></span>
@@ -19,7 +19,7 @@ function Socials() {
           <a href="#" target="blank" className="Btn">
             <span class="svgContainer p-2">
               <img
-                src="public\toppng.com-white-whatsapp-n-256x256.png"
+                src="https://github.com/ncjpr04/Code-Shek/blob/main/public/toppng.com-white-whatsapp-n-256x256.png?raw=true"
                 alt=""
               />
             </span>
